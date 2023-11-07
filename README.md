@@ -64,5 +64,3 @@ which provides a user interface for viewing and ordering drinks.
 - [x] Додана можливість створення нових напоїв та їх додавання до колекції
       улюблених напоїв. / Added the ability to create new drinks and add them to
       the collection of favourite drinks.
-
-!
